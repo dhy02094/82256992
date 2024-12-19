@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app: "82256992"
+        app: "82256992"  #사번
     spec:
       containers:
         - name: "82256992"
